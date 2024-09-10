@@ -1,0 +1,15 @@
+[submodule "asset_manage_api"]
+	path = asset_manage_api
+	url = git@github.com:jacksonsr451/asset_manage_api.git
+[submodule "project_manager_api"]
+	path = project_manager_api
+	url = git@github.com:jacksonsr451/project_manager_api.git
+[submodule "user_manager_api"]
+	path = user_manager_api
+	url = git@github.com:jacksonsr451/user_manager_api.git
+[submodule "blocks_manage_api"]
+	path = blocks_manage_api
+	url = git@github.com:jacksonsr451/blocks_manage_api.git
+[submodule "script_execution_api"]
+	path = script_execution_api
+	url = git@github.com:jacksonsr451/script_execution_api.git
